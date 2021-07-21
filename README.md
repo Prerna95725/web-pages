@@ -1,3 +1,4 @@
 # web-pages
 first page design using html and css only
-![covid](https://user-images.githubusercontent.com/84899089/126456396-f8cc3cf3-0f90-41fc-873d-9364a47d1fcc.jpg)
+![IMG_20210721_141629](https://user-images.githubusercontent.com/84899089/126460006-bc23f465-c753-4dc2-aee8-c2197a661c14.jpg)
+
